@@ -7,7 +7,7 @@ export const XWiseAgent: Character = {
     modelProvider: ModelProviderName.ANTHROPIC,
     settings: {
         model: "claude-3-5-sonnet",
-        secrets: {"TELEGRAM_BOT_TOKEN":"7867430259:AAHFUWiCC9qDY8Uftg3RBsiWA_dZxQ_amDg"},
+        secrets: {"TELEGRAM_BOT_TOKEN":"#########################################"},
         voice: {
             model: "tr_TR-medium"
         }
